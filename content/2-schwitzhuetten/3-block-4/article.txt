@@ -1,0 +1,23 @@
+Title-col1: Leitung, Ort & Anmeldung:
+
+----
+
+Beschreibung: 
+
+Die Schamanischen Reinigungshütten werden von Hans Michael Kallina, Black Widow Warrior, und Roman Jörg, Reiter des leichten Windes, geleitet. Beide sind seit über 15 Jahren Lehrlinge auf dem Süße Medizin Sonnentanzweg und ausgebildete Schwitzhüttenleiter.
+
+
+
+(link: kontakt text: Anmeldung rel: modal:open class:ctaBtn)
+
+----
+
+Testimonial: 
+
+----
+
+Coverimage: portraitgutwand.jpg
+
+----
+
+Title: Block 4

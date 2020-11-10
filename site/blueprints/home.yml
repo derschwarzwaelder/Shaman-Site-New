@@ -1,0 +1,31 @@
+title: Home
+
+
+
+pages:
+  template: article
+
+options: 
+  template: true  
+  status: true  
+  url: false
+
+files: true
+
+
+fields:
+   title:
+    label: Title
+    type:  text
+
+  coverimage:
+     label: Begrüßungsbild
+     type: image
+  
+  title_hero:
+    label: Überschrift
+    type:  text
+
+  beschreibung_hero:
+    label: Beschreibung
+    type:  textarea

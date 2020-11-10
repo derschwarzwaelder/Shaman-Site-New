@@ -1,0 +1,45 @@
+title: Inside
+
+files: true
+
+pages:
+  template: article
+
+options: 
+  template: true  
+  status: true  
+  
+
+fields:
+  title_termine:
+    label: Terminüberschrift
+    type:  text
+  builder:
+    label: Termine
+    type: builder
+    fieldsets:
+      quote:
+        label: Termine
+        snippet: sections/quote
+        fields:
+          text:
+            label: Termin
+            type: text
+          
+
+
+  title:
+    label: Title
+    type:  text
+
+  coverimage:
+     label: Begrüßungsbild
+     type: image
+  
+  title_hero:
+    label: Überschrift
+    type:  text
+
+  beschreibung_hero:
+    label: Beschreibung
+    type:  textarea

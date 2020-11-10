@@ -1,0 +1,22 @@
+title: Faq
+
+fields:
+  title_faq:
+    label: Faq-Überschrift
+    type:  text
+  builder:
+    label: Sections
+    type: builder
+    fieldsets:
+      bodytext:
+        label: Faq
+        snippet: sections/faq
+        fields:
+          title_faq:
+            label: Headline Text
+            type: text
+          faqtext:
+            label: text
+            type: textarea
+      
+      

@@ -1,0 +1,38 @@
+Title-hero: True Human Energy
+
+----
+
+Beschreibung-hero: 
+
+----
+
+Title: Basiskurs Schamanismus
+
+----
+
+Coverimage: fourworlds1.jpg
+
+----
+
+Title-termine: 
+
+----
+
+Builder: 
+
+- 
+  text: 'Termine des neuen Basiskurs:'
+  _fieldset: quote
+- 
+  text: 'Probewochenende: 23.-25-Oktober 2020; Danach 6.-8.Dezember 2020;'
+  _fieldset: quote
+- 
+  text: >
+    Termine für 2021 legen wir gemeinsam
+    fest;
+  _fieldset: quote
+- 
+  text: >
+    Anmeldungen sind ab jetzt möglich.
+    Herzlich Willkommen!
+  _fieldset: quote

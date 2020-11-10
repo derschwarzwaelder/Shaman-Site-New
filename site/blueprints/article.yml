@@ -1,0 +1,25 @@
+title:
+  en: Article
+  de: Artikel
+
+pages: false
+url: false
+status: true
+template: false
+
+fields:
+  title_col1:
+    label: Überschrift
+    type:  text
+
+  beschreibung:
+    label: Beschreibung
+    type:  textarea
+  
+  testimonial:
+    label: Testimonial
+    type:  textarea
+
+  coverimage:
+     label: Bild
+     type: image

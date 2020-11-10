@@ -1,0 +1,32 @@
+Title: Womens ways
+
+----
+
+Title-termine: Closing the Rose
+
+----
+
+Builder: 
+
+- 
+  text: >
+    14.-17-Ma.2020 (momentan leider schon
+    ausgebucht)
+  _fieldset: quote
+- 
+  text: >
+    Neuer Termin 1.-4.Oktober ! (hier sind
+    noch Plätze frei)
+  _fieldset: quote
+
+----
+
+Coverimage: 
+
+----
+
+Title-hero: Womens Ways
+
+----
+
+Beschreibung-hero: Seminare, für wichtige Phasen und Übergänge im Leben einer Frau

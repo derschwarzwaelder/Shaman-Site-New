@@ -1,0 +1,41 @@
+Title-hero: Schamanische Reinigungshütten - Heilung durch Balance
+
+----
+
+Beschreibung-hero: 
+
+----
+
+Title: Reinigungshütten
+
+----
+
+Coverimage: chakra_logo.png
+
+----
+
+Testimonial3: 
+
+----
+
+Year: 
+
+----
+
+Text: Ichasldhflkadsdjflkasjdflkasjdflkasjdflökjasdölfjaslökfjdsöalksjföldasjdsölakjfasöldfjsaölkdj
+
+----
+
+Testimonial: 
+
+----
+
+Testimonial2: 
+
+----
+
+Title-termine: Termine
+
+----
+
+Builder: 

@@ -1,0 +1,19 @@
+title: Termine
+
+fields:
+  builder:
+    label: Sections
+    type: builder
+    fieldsets:
+      quote:
+        label: Termine
+        snippet: sections/quote
+        fields:
+          title_termine:
+            label: Headline Text
+            type: text
+          termine-text:
+            label: text
+            type: textarea
+      
+      

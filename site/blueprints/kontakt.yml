@@ -1,0 +1,88 @@
+title: Kontakt
+
+pages: false
+files: true
+template: false
+
+fields:
+  
+  headline_hero:
+    label: Begrüßung
+    type: headline
+  
+  # heroimage:
+  #    label: Begrüßungsbild
+  #    type: image
+
+  title_hero:
+    label: Überschrift
+    type:  text
+
+  beschreibung_hero:
+    label: Beschreibung
+    type:  textarea 
+
+  headline:
+    label: Block 1 
+    type: headline
+  
+  title:
+    label: Überschrift
+    type:  text
+  
+  beschreibung:
+    label: Beschreibung
+    type:  textarea
+  
+  coverimage:
+     label: Bild
+     type: image
+  
+  headline2:
+    label: Block 2
+    type: headline
+
+
+  title2:
+    label: Überschrift
+    type:  text
+
+  beschreibung2:
+    label: Beschreibung
+    type:  textarea
+    
+  coverimage2:
+     label: Bild
+     type: image
+
+  headline3:
+    label: Block 3
+    type: headline 
+
+  title3:
+    label: Überschrift
+    type:  text
+
+  beschreibung3:
+    label: Beschreibung
+    type:  textarea
+
+  coverimage3:
+     label: Bild
+     type: image
+
+  headline4:
+    label: Block 4
+    type: headline 
+
+  title4:
+    label: Überschrift
+    type:  text
+
+  beschreibung4:
+    label: Beschreibung
+    type:  textarea
+
+  coverimage4:
+     label: Bild
+     type: image  

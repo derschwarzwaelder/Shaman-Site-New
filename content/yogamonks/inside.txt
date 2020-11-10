@@ -1,0 +1,21 @@
+Title-hero: Der Sonnentanzweg der Süssen Medicine
+
+----
+
+Beschreibung-hero: 
+
+----
+
+Title: Die Wurzeln
+
+----
+
+Coverimage: 
+
+----
+
+Title-termine: 
+
+----
+
+Builder: 

@@ -1,0 +1,91 @@
+Headline-hero: 
+
+----
+
+Title-hero: Danke
+
+----
+
+Beschreibung-hero: 
+
+----
+
+Headline: 
+
+----
+
+Title: DANKE
+
+----
+
+Beschreibung: 
+
+Ich bedanke mich bei denen, die vor mir gegangen sind!
+Ohne Euch wäre ich niemals dahin gekommen, wo ich jetzt bin:
+Swift Deer (Thunder Strikes, Heykoha-War Chief der Twisted Hairs)
+Kriyaji
+Mary Minor Flaming Mirror
+Lujan Matus
+Ida Rolf
+Bert Hellinger
+Maquini (Elder der Maori)
+
+----
+
+Coverimage: 
+
+----
+
+Headline2: 
+
+----
+
+Title2: 
+
+----
+
+Beschreibung2: 
+
+----
+
+Coverimage2: 
+
+----
+
+Headline3: 
+
+----
+
+Title3: 
+
+----
+
+Beschreibung3: 
+
+----
+
+Coverimage3: 
+
+----
+
+Headline4: 
+
+----
+
+Title4: 
+
+----
+
+Beschreibung4: 
+
+----
+
+Coverimage4: 
+
+----
+
+Title-termine: 
+
+----
+
+Builder: 

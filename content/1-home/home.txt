@@ -1,0 +1,170 @@
+Title-teaser-1: Rolfing
+
+----
+
+Text-teaser: _1: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+
+----
+
+Zitat-teaser-1: 
+
+Ich bin das Zitat von Teaser 1.
+
+Title_Teaser_2: Rolfing
+
+----
+
+Text-teaser-2: Ich bin der Text von Teaser 2.
+
+----
+
+Zitat-teaser-2: 
+
+Ich bin das Zitat von Teaser 2.
+
+Title: Familienstellen
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+
+----
+
+Zitat: Ich bin das Zitat.
+
+----
+
+Title: Willkommen
+
+----
+
+Beschreibung: 
+
+Willkommen bei TwinDragon - Schule für schamanisches Wissen 
+Schamanismus ist kein Glaubenssystem und keine Religion. Es geht um eine Haltung, wie der Mensch dem Leben an sich und allen Wesen begegnet und in Einklang leben kann.
+Eines der kraftvollesten Werkzeuge um sich selbst mit den Elementen Wasser, Erde, Luft, Feuer und Leere und zu verbinden ist die Schwitzhütte. Die Schwitzhütte ist ein uraltes Ritual, sie repräsentiert den Schoss von Grossmutter Erde, in den wir zurückgehen, um uns zu reinigen, neu auszurichten und wieder neu ins Leben hineingebären.
+
+(link: schwitzhuetten text: mehr erfahren class: ctaBtn)
+
+----
+
+Testimonial: 
+
+"Whereever you go, expect the unexpected"
+                                                    (Lujan Matus)
+
+----
+
+Title2: Titel 2
+
+----
+
+Beschreibung2: 
+
+Der Basiskurs Schamanismus ist eine ausgezeichnete Gelegenheit, sich mit grundlegenden Prinzipien, Landkarten und Werkzeugen des Schamanismus vertraut zu machen. Dazu treffen wir uns an 4 Wochenenden in einem Jahreszyklus, jeweils von Freitag abend bis Sonntag nachmittag.
+
+(link: basiskurs-schamanismus text: mehr erfahren class: ctaBtn)
+
+----
+
+Testimonial2: 
+
+"Wenn wir mit fliessender Leichtigkeit mit unseren Emotionen geben, mit Intimität in unserem Körper halten, mit Anteilnahme und Flexibilität in unserem Mind empfangen, mit Lust und Begeisterung mit unserem Geist/Spirit bestimmen und offen von Herz zu Herz in unserer Sexualität tanzen, dann wissen wir, was es bedeutet, wahrhaft Mensch zu sein."
+                                                                                                                                                                            (Thunder Strikes)
+
+----
+
+Title3: Titel 3
+
+----
+
+Beschreibung3: 
+
+Das Wissen, das ich innerhalb der TwinDragon-Lodge weitergebe geht auf die "Twisted Hairs" zurück.
+Die Twisted Hairs waren und sind Schamanen - Männer und Frauen - einer stammesübergreifenden indianisch-schamanischen Medizingesellschaft.
+Ihr Name „Ineinander verflochtene Haare“ drückt die Absicht aus, das spirituelle uralte Wissen (lange Haare als Sinnbild für Weisheit) verschiedener Stämme und Traditionen zu sammeln, zu verknüpfen, zu erproben und zu bewahren.
+
+(link: lehrlingschaft text: mehr erfahren class: ctaBtn)
+
+----
+
+Testimonial3: 
+
+Die "Kraft" von etwas ist seine Essenz und die Art und Weise, wie es Schönheit verschenkt und andere in Schönheit berührt."
+(ThunderStrikes)
+
+----
+
+Title4: Titel 4
+
+----
+
+Beschreibung4: 
+
+Ich bedanke mich bei denen, die vor mir gegangen sind!
+Ohne Euch wäre ich niemals dahin gekommen, wo ich jetzt bin:
+Swift Deer (Thunder Strikes, Heykoha-War Chief der Twisted Hairs)
+Kriyaji
+Mary Minor Flaming Mirror
+Lujan Matus
+Ida Rolf
+Bert Hellinger
+Maquini (Elder der Maori)
+
+(link: danke text: mehr erfahren class: ctaBtn)
+
+----
+
+Testimonial4: 
+
+----
+
+Cover-image: hero_mainsite.jpg
+
+----
+
+Coverimage: 
+
+----
+
+Heroimage: hirsche.jpg
+
+----
+
+Title-hero: Willkommen beim Zentrum für Schamanisches Wissen & Werkzeuge
+
+----
+
+Beschreibung-hero: 
+
+----
+
+Coverimage2: atemberaubend-aufregend-baum-36478.jpg
+
+----
+
+Coverimage3: root-3569_1920.jpg
+
+----
+
+Coverimage4: hirsche.jpg
+
+----
+
+Title-col1: Schamanische Reinigungshütten
+
+----
+
+Title-col2: Basiskurs Shamanismus / True Human Energy
+
+----
+
+Title-col3: Ein Weg mit Herz / Herkunft des Wissens
+
+----
+
+Coverimagemain: 
+
+----
+
+Title-col4: DANKE

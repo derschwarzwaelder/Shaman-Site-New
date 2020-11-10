@@ -1,0 +1,55 @@
+Builder: 
+
+- 
+  title_faq: 'Inhalte:'
+  faqtext: |
+    Zentrales Thema der vier Treffen dieses Zyklus wird sein:
+    - Was sind die Welten von Großmutter Erde und was ist Ihr Geschenk an Uns ?
+    - Was sind die 5 Elemente und wie bringen wir uns mit Ihrer Hilfe in Einklang und Balance ?
+    - Die Bedeutung der Himmelsrichtungen und ihre besonderen Kräfte
+    - Die verschiedenen Energiekörper des Menschen
+    - Die Bewegung der Seele von Karma (Verstrickung/lLernen durch Schmerz) hin zu Dharma (Lernen durch Freude)
+    -  gemeinsames Singen und Trommeln.
+    zusätzlich werden wir auch
+    -  schamanische Traumreisen machen, um unsere Tierverbündeten zu finden
+    -lernen einen Ort der Kraft zu finden und uns selbst von negativen Einflüssen zu reinigen
+    An jedem Wochenende werden wir gemeinsam in die Schwitzhütte gehen, um das Gelernte zu integrieren. Denn es geht in diesem Kurs darum, sich in seiner Substanz zu verändern.
+  _fieldset: bodytext
+- 
+  title_faq: 'Wann & Wo:'
+  faqtext: |
+    Termine: 27-29.September / 6.-8.Dezember 2019 und 6-8.März und 19.-21.Juni 2020
+    Organisatorisches:
+    Zeiten:  Beginn Freitags um 18.00 Uhr zum ersten gemeinsamen Abendessen. Ende am Sonntag ca. 14.30 nach dem Mittagessen und
+    Ort: Auf dem wunderschönen Seminarzentrum Kieselhof bei Murrhardt. Hier steht jetzt auch unsere gemeinsame Schwitzhütte. (www.seminarhaus-kieselhof.de)
+  _fieldset: bodytext
+- 
+  title_faq: 'Kosten:'
+  faqtext: |
+    Die Gesamtkosten pro Wochenende liegen je nach Zimmerwahl bei  ca. 280 Euro. Davon sind 180 Euro Seminarkosten. (Holz für die Schwitzhütte, Steine etc. ist im Preis enthalten.)
+    100 Euro für: Übernachtung im Matratzenlager (20 Euro pro Nacht), Vollpension mit sehr gutem Essen 30 Euro pro Tag.
+  _fieldset: bodytext
+- 
+  title_faq: 'Teilnahmebedingungen:'
+  faqtext: |
+    Das erste Wochende kann zur Probe besucht werden, danach bedarf es einer Entscheidung deinerseits und unsererseits für die folgenden 3 Termine.
+    Maximale Teilnehmerzahl: 16 Mindestanzahl: 8  TeilnehmerInnen
+  _fieldset: bodytext
+- 
+  title_faq: 'Mitzubringen:'
+  faqtext: 'Mitzubringen sind: warme Socken, Sitzunterlage, Decke, Papier, und Stifte. Regensachen für Zeremonien draussen.'
+  _fieldset: bodytext
+- 
+  title_faq: 'Anmeldung:'
+  faqtext: |
+    per e-Mail unter michael@kallina.co ; mobil bin ich unter  0163 3 22 03 70 zu erreichen
+    und stehe auch gerne für Fragen und weitere Informationen zur Verfügung.
+  _fieldset: bodytext
+
+----
+
+Title: Faq-Basiskurs
+
+----
+
+Title-faq: 

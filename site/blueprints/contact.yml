@@ -1,0 +1,10 @@
+title: Contact
+
+fields:
+  title_col1:
+    label: Überschrift
+    type:  text
+
+  beschreibung:
+    label: Beschreibung
+    type:  textarea

@@ -1,0 +1,60 @@
+Builder: 
+
+- 
+  title_faq: >
+    Was ist eine
+    Seelen-Reinigungshütte/Schwitzhütte ?
+  faqtext: |
+    Viele alte Kulturen seit der Entdeckung des Feuers pflegten Formen der Reinigung. In vielen Teilen der Welt wurde dazu Wasser über heiße Steine gegossen, um ein reinigendes Dampfbad zu erzeugen.
+    Diese Reinigungshütte symbolisiert in den Traditionen von Nord – ,Mittel - und Südamerika den Schoßraum der gesamten Schöpfung, aus dem alles Leben entstand. Und gleichzeitig auch den Schoß von Großmutter Erde, aus dem alle Welten dieser Erde: Mineralien, Pflanzen, Tiere und Menschen geboren sind.
+    Die Absicht einer Seelen-Reinigungs Zeremonie ist es, sich zu reinigen und sich zu erneuern. Du verbindest Dich aufs Neue mit der Schöpfungskraft. Das ermöglicht es Dir neu zu entscheiden, was für Dich wesentlich ist, um Dich ins Leben hinein zu gebären.
+    
+    
+    
+    
+    .
+  _fieldset: bodytext
+- 
+  title_faq: 'Ablauf:'
+  faqtext: |
+    Die Zeremonie beginnt in der Regel vormittags um 11  Uhr und endet abends gegen ca. 21.00 Uhr nachdem die Schwitzhütte verräumt ist.
+    Um 11.00 Uhr bilden wir einen Zusammenkommkreis und bereiten dann alles für die Zeremonie vor. Wir werden selbst gemeinsam die Hütte mit den Decken bedecken und auch das Feuer für die Steine aufbauen. Eine Gruppe wird vorher die Steine für die Reinigungshütte auf zeremonielle Weise sammeln.
+    Für Alle, die noch nie in dieser Tradition geschwitzt haben, wird eine Einführung stattfinden.
+    Gegen 17.30 gehen wir in die Reinigungshütte. Danach können wir Duschen, noch beim Feuer sitzen, dann die mitgebrachten Speisen essen und anschliessend treffen wir uns zur Abschlussrunde und zum Abbau. Wir werden gemeinsam den Zeremonialplatz aufräumen und in Schönheit hinterlassen.
+  _fieldset: bodytext
+- 
+  title_faq: 'Energieausgleich & Kosten:'
+  faqtext: |
+    In unserer Tradition findet ein energetischer Ausgleich bei Zeremonien in Form von Tabak und einem Medizingeschenk für den Leiter der Schwitzhütte und den Halter des Feuers statt. Der Tabak symbolisiert die Bestätigung deiner eigenen Absicht und deine Hingabe an Spirit.
+    Das Medizingeschenk ehrt die Energie, die die Personen zu deinen Gunsten aufwenden, vollendet die Zeremonie auf schöne Weise und stellt sicher, dass Du nach der Zeremonie niemanden etwas schuldig bist. Als Tabak ist z. B. American Spirit oder Pueblo willkommen. Das Medizingeschenk ist ein kleines Geschenk, welches der andere brauchen kann und über das er sich freut. (z.B. Öle oder Körpermilch von Weleda, Badeöle etc.)
+    
+    Weitere Kosten gibt es nicht. Die Teilnahme an Zeremonien ist in unserer Tradition immer kostenlos. Spenden für Holz, Werkzeuge, etc. sind willkommen.
+  _fieldset: bodytext
+- 
+  title_faq: 'Wichtig : Mitbringen !'
+  faqtext: |
+    Für den Aufbau der Schwitzhütte: je nach Jahreszeit: Feste (regendichte & warme) Kleidung, gutes Schuhwerk, Arbeitshandschuhe, Taschenlampe.
+    Für die Zeremonie: Mind. 2 Handtücher, Bademantel, ausreichend Trinken,
+    Für das Abschlussessen: Jeweils deinen Beitrag zum Buffett.
+  _fieldset: bodytext
+- 
+  title_faq: 'Zur Person der Leiter:'
+  faqtext: |
+    Roman Jörg: langjährige Ausbildung auf dem schamanischen Sonnentanz-Weg der Süssen Medicine und Aikido-DAN Träger.
+    Dr. Hans-Michael Kallina: Heilpraktiker & Heilpraktiker für Psychotherapie, Qualifizierter Systemaufsteller, Certified Rolfer, Yoga-Lehrer; langjährige Aufbildung auf  dem schamanischen Sonnentanz-Weg der Süssen Medicine ; Fortbildungen: u.a. bei Lujan Matus, Thunder Strikes, Bert Hellinger, Kriyaji.
+  _fieldset: bodytext
+- 
+  title_faq: 'Anmeldungen und Fragen:'
+  faqtext: |
+    Michael Kallina, ich bin per email unter: info@kallina.co oder telefonisch am besten Mobil unter: 01633220370 zu erreichen.
+    - Roman Jörg ist per email unter: romanwindreiter@gmail.com oder dann telefonisch unter 07945 942680 erreichbar.
+    Herzlicher Gruss und Willkommen!
+  _fieldset: bodytext
+
+----
+
+Title: Faq-sh
+
+----
+
+Title-faq: 
