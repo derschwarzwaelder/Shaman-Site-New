@@ -19,12 +19,12 @@ for more information: http://getkirby.com/license
 
 */
 
-// c::set('url', 'http://localhost:8888');
-// c::set('subfolder', '200623_shaman_neu_server');
+c::set('url', 'http://localhost:8888/200623_shaman_neu_server');
+c::set('subfolder', '200623_shaman_neu_server');
 
 
-c::set('url', 'http://www.twin-dragon-lodge.de');
-c::set('subfolder', 'shaman_neu');
+// c::set('url', 'http://www.twin-dragon-lodge.de');
+// c::set('subfolder', 'shaman_neu');
 /*
 
 ---------------------------------------

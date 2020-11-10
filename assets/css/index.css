@@ -687,13 +687,7 @@ blockquote em {
   margin-top: 0.45rem;
 }
 
-.hero-image {
-   /*background: transparent url("../images/Letsdance2017.jpg") no-repeat;*/
-   /*background-size: cover;
-   background-position: 50%;
-   height: 70vh;*/
 
-}
 
 .hero-image.yoga {
    background: transparent url("../images/_MG_4219.jpg") no-repeat;
@@ -832,9 +826,7 @@ text-align: left;
   display: inline-block;
 }
 
-footer .menu-item {
-  display: block;
-}
+
 
 .menu-item a {
   border-bottom: 0;
@@ -1059,7 +1051,7 @@ section.get-in-touch {
 }
 
 blockquote {
-  font-size: 0.85rem;g
+  font-size: 0.85rem;
   transform: translate(2vmin, 0);
 }
 
@@ -1727,6 +1719,10 @@ h1 {
     width: 22vw;
 }
 
+.footermenu h1 {
+  font-size: 1.25rem;
+}
+
 
 .hero-txt h2 {
   margin-bottom: 1.5rem;
@@ -1780,11 +1776,17 @@ text-align: left;
   height: 55vh;
 }*/
 
- .brand {
+ .brand, .footermenu {
   display: flex;
   justify-content: space-around;
   position: relative;
 }
+
+.footermenu {
+  justify-content: space-evenly;
+  margin-left: 1rem;
+}
+
 
 .dateCont {
  position: absolute;
@@ -2066,3 +2068,9 @@ text-align: left;
 
 
 }
+
+
+}
+
+
+
