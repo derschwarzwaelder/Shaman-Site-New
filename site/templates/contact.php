@@ -28,14 +28,31 @@
       <?php endif ?>
 
       <div class="field form-field col x-50">
-        <label class="label" for="name">Name <abbr title="required">*</abbr></label>
+        <label class="label" for="vorname">Vorname <abbr title="required">*</abbr></label>
+        <input class="input-text js-input" type="text" id="vorname" name="vorname">
+      </div>
+      
+      <div class="field form-field col x-50">
+        <label class="label" for="name">Nachname <abbr title="required">*</abbr></label>
         <input class="input-text js-input" type="text" id="name" name="name">
       </div>
-
+      
       <div class="field form-field col x-50">
         <label class="label" for="email">Email <abbr title="required">*</abbr></label>
         <input class="input-text js-input" type="email" id="email" name="email" required>
       </div>
+
+      
+
+
+
+      
+
+      <div class="field form-field col x-50">
+        <label class="label" for="telefon">Telefonnummer <abbr title="required">*</abbr></label>
+        <input class="input-text js-input" type="text" id="telefon" name="telefon">
+      </div>
+
 
       <div class="field form-field col x-100">
         <label class="label" for="text">Text <abbr title="required">*</abbr></label>

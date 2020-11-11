@@ -4,17 +4,21 @@ return function($site, $pages, $page) {
   if(get('submit')) {
     $data = array(
       'name'  => get('name'),
+      'vorname'  => get('vorname'),
+        'telefon'  => get('telefon'),
       'email' => get('email'),
       'text'  => get('text')
     );
     $rules = array(
       'name'  => array('required'),
+      'betreff'  => array('required'),
       'email' => array('required', 'email'),
       'text'  => array('required', 'min' => 3, 'max' => 3000),
     );
     $messages = array(
       'name'  => 'Please enter a valid name',
       'email' => 'Please enter a valid email address',
+      'telefon' => 'Please enter a valid telefon Number',
       'text'  => 'Please enter a text between 3 and 3000 characters'
     );
     // some of the data is invalid
@@ -27,7 +31,7 @@ return function($site, $pages, $page) {
       // build the email
       $email = email(array(
         'to'      => 'info@kallina.co',
-        'from'    => 'info@der-schwarzwaelder.de',
+        'from'    => 'info@kallina.co',
         'subject' => 'New contact request',
         'replyTo' => $data['email'],
         'body'    => $body
