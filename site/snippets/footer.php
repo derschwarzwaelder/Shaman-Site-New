@@ -1,19 +1,21 @@
-<footer id=kontakt class"brand">
+<footer id=kontakt>
 
 <div class="footermenu">
-          
-<h1>TWINDRAGON-LODGE<span>Zentrum für angewandtes Schamanisches Wissen / True Human Energy</span></h1>    
+  
+<div class="footerOverlay">
+    
            
 <!-- Menu   -->
-<ul>
+<nav>
+
 <?php foreach($pages->visible() as $item): ?>
-  <li class="menu-item<?= r($item->isOpen(), ' is-active') ?>">
-    <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
-  </li>
+  
+    <a class="<?= r($item->isOpen(), ' is-active') ?>" href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
+  
 <?php endforeach ?>
 
 <!-- */ Impressum & Datenschutz anzeigen*/ -->
-<li class="menu-item"> <?php
+ <?php
 
 // selective items
 
@@ -22,19 +24,20 @@ $items = $pages->find('impressum', 'datenschutz');
 if($items and $items->count()):
 
 ?>
-<nav>
+
 
   <?php foreach($items as $item): ?>
-  <a<?php e($item->isOpen(), ' class="active"') ?> href="<?= $item->url() ?>"><?= $item->title()->html() ?></a></li>
+  <a<?php e($item->isOpen(), ' class="active"') ?> href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
   <?php endforeach ?>
 
 
 <?php endif ?>
-</ul>
+</nav>
+
+<h1>TWINDRAGON-LODGE<span>Zentrum für angewandtes Schamanisches Wissen / True Human Energy</span></h1>
 
 
-
-
+</div>
       </div>
      
 

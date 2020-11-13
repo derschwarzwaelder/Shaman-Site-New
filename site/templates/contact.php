@@ -42,12 +42,6 @@
         <input class="input-text js-input" type="email" id="email" name="email" required>
       </div>
 
-      
-
-
-
-      
-
       <div class="field form-field col x-50">
         <label class="label" for="telefon">Telefonnummer <abbr title="required">*</abbr></label>
         <input class="input-text js-input" type="text" id="telefon" name="telefon">

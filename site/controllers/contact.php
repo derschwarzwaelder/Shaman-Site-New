@@ -5,18 +5,19 @@ return function($site, $pages, $page) {
     $data = array(
       'name'  => get('name'),
       'vorname'  => get('vorname'),
-        'telefon'  => get('telefon'),
+      'telefon'  => get('telefon'),
       'email' => get('email'),
       'text'  => get('text')
     );
     $rules = array(
-      'name'  => array('required'),
-      'betreff'  => array('required'),
+      'name'  => array('required', 'name'),
+      'vorname'  => array('required', 'vorname'),
       'email' => array('required', 'email'),
       'text'  => array('required', 'min' => 3, 'max' => 3000),
     );
     $messages = array(
-      'name'  => 'Please enter a valid name',
+      'name'  => 'Bitte tragen Sie Ihren Nachnamen ein',
+      'vorname' => 'Bitte tragen Sie Ihren Vornamen ein',
       'email' => 'Please enter a valid email address',
       'telefon' => 'Please enter a valid telefon Number',
       'text'  => 'Please enter a text between 3 and 3000 characters'
