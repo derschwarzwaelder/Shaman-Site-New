@@ -2,9 +2,10 @@
 
 <div class="footermenu">
   
-<div class="footerOverlay">
-    
-           
+
+
+          
+   <div>        
 <!-- Menu   -->
 <nav>
 
@@ -26,6 +27,9 @@ if($items and $items->count()):
 ?>
 
 
+
+
+
   <?php foreach($items as $item): ?>
   <a<?php e($item->isOpen(), ' class="active"') ?> href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
   <?php endforeach ?>
@@ -33,17 +37,22 @@ if($items and $items->count()):
 
 <?php endif ?>
 </nav>
+</div>
+<div>
 
 <h1>TWINDRAGON-LODGE<span>Zentrum für angewandtes Schamanisches Wissen / True Human Energy</span></h1>
-
-
 </div>
+
+
       </div>
      
 
  
   </footer>
-<!-- Jquery Script -->
+
+
+
+  <!-- Jquery Script -->
 <?php echo js('assets/js/jquery.js'); ?>
 <!-- Modal Window -->
 <?php echo js('assets/js/jquery.modal.min.js'); ?>

@@ -1,11 +1,11 @@
 
-<nav class="navigation  menu column" role="navigation">
-  <ul class="site-nav">
+<nav class="navigation site-nav menu column" role="navigation">
+  
     <?php foreach($pages->visible() as $item): ?>
-    <li class="menu-item<?= r($item->isOpen(), ' is-active') ?>">
-      <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
-    </li>
+    
+      <a class="menu-item <?= r($item->isOpen(), ' is-active') ?>" href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
+    
     <?php endforeach ?>
     
-  </ul>
+  
 </nav>
